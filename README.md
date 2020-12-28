@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=PeterSkriba&color=blue)
+
 ### 🎓 Student at FIIT STUBA
 
 - 🔭 I’m currently working on small projects as full-stack developer.
