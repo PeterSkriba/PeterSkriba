@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on small projects as full-stack developer.
 - 🌱 I’m currently learning full-stack web development with Nodejs.
-- ⚡ Working on: [full-stack boilerplate](https://github.com/PeterSkriba/boilerplate) template!
+- 🔭 I’m currently working on React Native mobile app.
+- ⚡ Recent project: [full-stack boilerplate](https://github.com/PeterSkriba/boilerplate) template!
 
 ### 🧰 Languages:
 
