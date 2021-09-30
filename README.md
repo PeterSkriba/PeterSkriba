@@ -5,8 +5,7 @@
 ### 🎓 Student at FIIT STUBA
 
 - 🔭 I’m currently working on small projects as full-stack developer.
-- 🌱 I’m currently learning full-stack web development with Nodejs.
-- 🔭 I’m currently working on React Native mobile app.
+- 🎓 I’m currently working on bachelor thesis (Chronical Wound Management App).
 - ⚡ Recent project: [full-stack boilerplate](https://github.com/PeterSkriba/boilerplate) template!
 
 ### 🧰 Languages:
