@@ -4,9 +4,7 @@
 
 ### 🎓 Student at FIIT STUBA
 
-- 🔭 I’m currently working on small projects as full-stack developer.
-- 🎓 I’m currently working on bachelor thesis (Chronica Wound Management App).
-- ⚡ Recent project: [full-stack boilerplate](https://github.com/PeterSkriba/boilerplate) template!
+- 🔭 Currently working on small projects as full-stack developer.
 
 ### 🧰 Languages:
 
